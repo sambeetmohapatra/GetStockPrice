@@ -5,5 +5,6 @@ Get Stock Price . Enter thee stock name like AAPL, RELIANCE.NS
 
 Enter the Stock Name - Ticker Code 
 
-![image](https://github.com/sambeetmohapatra/GetStockPrice/assets/29731836/3dd0b3f2-32e9-41ef-814c-1e0a28362ad0)
+![image](https://github.com/sambeetmohapatra/GetStockPrice/assets/29731836/5dd0948d-4dc0-4f04-9c76-7f6ff4d9a8ea)
+
 
