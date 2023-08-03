@@ -1,10 +1,13 @@
 # GetStockPrice
-
+Pre-Req:
 pip install yfinance<br>
 pip install ttkthemes
 
 version - ttkthemes 3.2.2
+tkinter should be present.
+Python 3.8 and above 
 
+Description:
 Get Stock Price . Enter thee stock name like AAPL, RELIANCE.NS. 
 Output will be current day stock price and its full name
 Enchancements to come soon ... 
