@@ -1,6 +1,6 @@
 # GetStockPrice
 
-pip install yfinance
+pip install yfinance<br>
 pip install ttkthemes
 
 version - ttkthemes 3.2.2
